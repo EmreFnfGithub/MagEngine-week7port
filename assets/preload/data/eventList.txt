@@ -1,0 +1,4 @@
+none
+play-animation
+video
+character-change
